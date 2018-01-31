@@ -1,5 +1,5 @@
-import React from 'react' 
+// import React from 'react' 
 
 
         
-export default RestaurantsDetail
+// export default RestaurantsDetail
